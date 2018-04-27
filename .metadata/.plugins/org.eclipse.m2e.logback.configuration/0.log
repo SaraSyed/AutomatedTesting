@@ -1722,3 +1722,59 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected > 
 2018-04-25 16:26:12,091 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\test\resources
 2018-04-27 09:00:35,790 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2018-04-27 10:26:06,457 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-27 10:33:14,342 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 10:33:14,343 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\main\resources
+2018-04-27 10:33:14,344 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 10:33:14,344 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\test\resources
+2018-04-27 10:34:29,957 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 10:34:29,957 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\main\resources
+2018-04-27 10:34:29,959 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 10:34:29,959 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\test\resources
+2018-04-27 10:35:25,145 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 10:35:25,145 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\main\resources
+2018-04-27 10:35:25,147 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 10:35:25,147 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\test\resources
+2018-04-27 10:37:26,643 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 10:37:26,644 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\main\resources
+2018-04-27 10:37:26,645 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 10:37:26,652 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\test\resources
+2018-04-27 10:42:04,715 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 10:42:04,716 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\main\resources
+2018-04-27 10:42:04,717 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 10:42:04,747 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\test\resources
+2018-04-27 10:42:21,286 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 10:42:21,291 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\main\resources
+2018-04-27 10:42:21,297 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 10:42:21,301 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\test\resources
+2018-04-27 10:43:15,981 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-27 10:43:44,347 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 10:43:44,349 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\main\resources
+2018-04-27 10:43:44,351 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 10:43:44,351 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\test\resources
+2018-04-27 10:49:23,537 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 10:49:23,537 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\main\resources
+2018-04-27 10:49:23,538 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 10:49:23,538 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\test\resources
+2018-04-27 10:59:22,506 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 10:59:22,506 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\main\resources
+2018-04-27 10:59:22,508 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 10:59:22,508 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\test\resources
+2018-04-27 11:29:03,403 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:29:03,403 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\main\resources
+2018-04-27 11:29:03,404 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:29:03,409 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\test\resources
+2018-04-27 11:43:37,778 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:43:37,778 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\main\resources
+2018-04-27 11:43:37,779 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 11:43:37,786 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\test\resources
+2018-04-27 11:46:20,480 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-27 11:59:06,121 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-27 13:12:57,424 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 13:12:57,424 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\main\resources
+2018-04-27 13:12:57,426 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 13:12:57,427 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\test\resources
+2018-04-27 13:13:15,957 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 13:13:15,958 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\main\resources
+2018-04-27 13:13:15,959 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-27 13:13:15,959 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\QAC\eclipse-workspace\maven-archetype-quickstart\src\test\resources
+2018-04-27 15:07:20,813 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

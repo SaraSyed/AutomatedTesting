@@ -1,0 +1,14 @@
+package com.qa.quickstart.maven_archetype_quickstart;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class ShoppingCart {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
