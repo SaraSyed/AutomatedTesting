@@ -1,0 +1,25 @@
+package MyFeatureFiles;
+
+public class StackTestStepDefinitions {
+	
+	@Given("^I have an empty stack$")
+	public void i_have_an_empty_stack() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@When("^I push to a stack$")
+	public void i_push_to_a_stack() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Then("^the stack should contain something$")
+	public void the_stack_should_contain_something() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+
+
+}

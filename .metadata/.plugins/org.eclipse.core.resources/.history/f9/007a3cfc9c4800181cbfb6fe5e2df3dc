@@ -1,0 +1,43 @@
+package MyFeatureFiles;
+
+import static org.junit.Assert.assertTrue;
+
+import java.util.Stack;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class StackTestStepDefinitions {
+
+	Stack stack;
+	
+	@Given("^I have an empty stack$")
+	public void i_have_an_empty_stack() {
+		
+		stack = new Stack();
+		
+		assertTrue(stack.empty()); // checks to see that the stack is empty
+		
+		// Write code here that turns the phrase above into concrete actions
+
+	}
+
+	@When("^I push to a stack$")
+	public void i_push_to_a_stack() {
+		
+		stack.push(1);
+		
+		
+		// Write code here that turns the phrase above into concrete actions
+
+	}
+
+	@Then("^the stack should contain something$")
+	public void the_stack_should_contain_something() {
+		
+		assertTrue(stack.get(0).equals(1));
+		// Write code here that turns the phrase above into concrete actions
+	}
+
+}

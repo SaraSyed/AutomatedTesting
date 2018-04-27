@@ -1,0 +1,78 @@
+package com.qa.quickstart.maven_archetype_quickstart;
+
+import static org.junit.Assert.*;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import junit.framework.Assert;
+
+public class BlackJackTest  {
+	
+	WebDriver driver;
+	
+	@Before
+	public void selTest() {
+		
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\QAC\\Desktop\\WebDev\\chromedriver.exe");
+		
+		 driver = new ChromeDriver();
+	}
+	
+	@After
+	public void tearDown() {
+		driver.quit();
+	}
+	
+	@Test
+	public void qaTest() {
+		//driver.get("http://www.qa.com");
+		//driver.findElement(By.xpath("//*[@id=\"services\"]/div[2]/div[2]/div[4]/a")).click();	
+		//driver.findElement(By.xpath("//*[@id=\"main\"]/div/div/section[1]/div[2]/div[2]/div[4]/a")).click();
+		//assertEquals();
+		
+		driver.get("http://thedemosite.co.uk ");
+		driver.findElement(By.xpath("/html/body/div/center/table/tbody/tr[2]/td/div/center/table/tbody/tr/td[2]/p/small/a[3]")).click();
+		driver.findElement(By.xpath("/html/body/table/tbody/tr/td[1]/form/div/center/table/tbody/tr/td[1]/div/center/table/tbody/tr[1]/td[2]/p/input")).click();
+		driver.findElement(By.xpath("/html/body/table/tbody/tr/td[1]/form/div/center/table/tbody/tr/td[1]/div/center/table/tbody/tr[1]/td[2]/p/input")).sendKeys("test");
+		try {
+			Thread.sleep(3000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		driver.findElement(By.xpath("/html/body/table/tbody/tr/td[1]/form/div/center/table/tbody/tr/td[1]/div/center/table/tbody/tr[2]/td[2]/p/input")).click();
+		driver.findElement(By.xpath("/html/body/table/tbody/tr/td[1]/form/div/center/table/tbody/tr/td[1]/div/center/table/tbody/tr[2]/td[2]/p/input")).sendKeys("123");
+		try {
+			Thread.sleep(3000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		driver.findElement(By.xpath("/html/body/table/tbody/tr/td[1]/form/div/center/table/tbody/tr/td[1]/div/center/table/tbody/tr[3]/td[2]/p/input")).click();
+		
+		driver.findElement(By.xpath("/html/body/div/center/table/tbody/tr[2]/td/div/center/table/tbody/tr/td[2]/p/small/a[4]")).click();
+		driver.findElement(By.xpath("/html/body/table/tbody/tr/td[1]/form/div/center/table/tbody/tr/td[1]/table/tbody/tr[1]/td[2]/p/input")).click();
+		driver.findElement(By.xpath("/html/body/table/tbody/tr/td[1]/form/div/center/table/tbody/tr/td[1]/table/tbody/tr[1]/td[2]/p/input")).sendKeys("test");
+	}
+}
+
+
+
+//@Test
+//public void test() {
+//	//fail("Not yet implemented");
+//	
+//	BlackJack blackjack = new BlackJack();
+//	
+//	assertEquals(10, blackjack.play(10, 22));
+//	assertEquals(9, blackjack.play(22, 9));
+//	assertEquals(0, blackjack.play(22, 22));
+//	assertEquals(10, blackjack.play(10, 7));
+//	assertEquals(19, blackjack.play(1, 19));
+//
+//}
